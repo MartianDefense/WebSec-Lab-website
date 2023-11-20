@@ -9,11 +9,11 @@ navbar_entries:
     url: https://www.abhinav.co
 
 project_entries:
-  - title: Project 1
+  - title: WebSec Lab
     url: overview-post
     desc: This is an example project, configured in _data/home.yml
 
-  - title: Project 2
+  - title: API Sec Lab
     url: overview-post
     desc: Projects are shown in card layout
 
