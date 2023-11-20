@@ -15,11 +15,11 @@ project_entries:
 
   - title: API Sec Lab
     url: apisec-lab
-    desc: Projects are shown in card layout
+    desc: API security Lab
 
   - title: Red Labs
     url: redteam-lab
-    desc: You can control visibility from _config.yml file
+    desc: Red Team lab
 
 
 old_project_entries:
@@ -41,7 +41,7 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: team Homepage
+  - title: Team Homepage
     url: https://martiandefense.github.io/
 
   - title: twitter
