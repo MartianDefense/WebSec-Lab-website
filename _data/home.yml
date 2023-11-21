@@ -12,10 +12,12 @@ project_entries:
   - title: Redplanet
     url: red-planet
     desc: Web Security Vulnerable applications.
+    highlight: FREE
 
   - title: AstroHack
     url: astro-hack
     desc: API security Lab
+    highlight: FREE
 
   - title: CyberMaze
     url: redteam-lab
